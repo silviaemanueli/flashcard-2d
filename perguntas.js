@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação'
-    'O que é HtML?'
-    'Linguagem de marcação'
+    'Programação',
+    'O que é HtML?',
+    'Linguagem de marcação',
 )
 
 criaCartao(
-    'Inglês'
-    'Como é dia do pagamento?'
-    'Pay Day'
+    'Inglês',
+    'Como é dia do pagamento?',
+    'Pay Day',
 )
 
 criaCartao(
