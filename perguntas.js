@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'geografia',
-    'O que é planície?'
+    'O que é planície?',
     'Area geografica extensa e relativamente plana'
 )
 
@@ -28,8 +28,3 @@ criaCartao(
     'Pay Day',
 )
 
-criaCartao(
-    categoria,
-    pergunta,
-    resposta
-)
